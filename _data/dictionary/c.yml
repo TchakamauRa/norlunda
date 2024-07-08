@@ -93,6 +93,12 @@
   custom: true
   notes: Noun form of the Norlunda verb _samnan_, meaning "to collect".
 
+- def: colourful
+  type: adjective
+  word: fara
+  origin: "*farwaz"
+  originDef: colourful
+  
 - def: comb
   type: noun
   word: kam
